@@ -1,0 +1,31 @@
+{
+  "name": "throttlefunc",
+  "version": "1.0.0",
+  "description": "i will learn how to implement throttle function",
+  "main": "throttleFunction.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ignasiFloz/myThrottleFunction.git"
+  },
+  "keywords": [
+    "throttle"
+  ],
+  "author": "ignasiFloz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ignasiFloz/myThrottleFunction/issues"
+  },
+  "homepage": "https://github.com/ignasiFloz/myThrottleFunction#readme",
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.2.2"
+  }
+}
